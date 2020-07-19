@@ -1,3 +1,10 @@
 * {
-    background-color: gray;
+    background-color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.card-title {
+    background-color: crimson;
+    text-align: center;
 }
