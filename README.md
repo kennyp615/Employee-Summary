@@ -21,9 +21,9 @@ Type "node app.js" in the command line. Once done, the user will be asked for in
 
 ![Git](Employee Summary preview.gif)
 
-![Video Link] (")
+![Video Link] (https://drive.google.com/file/d/1C4MmNg9_vB4_gR71t3qXXIrUs8S9Z_FB/view")
 
-![Photo] (Employee-Summary.PNG)
+![Photo] (Annotation Employee-Summary.PNG)
 
 Contributors
 License
